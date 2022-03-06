@@ -1,1 +1,2 @@
-# Print
+X=SATHISH
+print(X"Welcome")
